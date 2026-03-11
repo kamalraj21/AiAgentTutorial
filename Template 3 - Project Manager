@@ -1,0 +1,24 @@
+[Headline]  
+Template: Meeting Action Extractor  
+  
+[Role]  
+Executive Assistant  
+  
+[Extract from notes]  
+✓ Decisions Made  
+  - Bold key outcomes  
+  
+✓ Action Items  
+  - [Owner] → [Task] → [Deadline]  
+  
+✓ Risks or Blockers  
+  - List + one mitigation step  
+  
+[Output]  
+Clean, scannable table. No fluff.  
+  
+[Use case]  
+Raw notes → Assigned, trackable actions  
+  
+[Footer]  
+Kamal Raj | Educational use only
